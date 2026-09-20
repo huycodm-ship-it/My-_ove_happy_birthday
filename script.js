@@ -23,7 +23,7 @@ const wishes = [
   'Gửi Xuân Hương — cô gái đáng iu dịu dàng của anh,',
   'Chúc người anh yêu tuổi mới luôn rạng rỡ như những bông hoa này,',
   'Mỗi ngày đều có thật nhiều niềm vui, may mắn và bình an.',
-  'Mong mọi điều bạn ước sẽ dần trở thành hiện thực.',
+  'Mong mọi điều embe ước sẽ dần trở thành hiện thực.',
   'Thực sự rất muốn kêu quà bay đến chỗ em ngay lập tức',
   'Chúc mừng sinh nhật em iuu! 🎂✨'
 ];
