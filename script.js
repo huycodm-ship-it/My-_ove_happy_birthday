@@ -20,10 +20,11 @@ while (flowerCount < 900) {
 }
 
 const wishes = [
-  'Gửi Xuân Hương — cô gái đáng iu điều dịu dàng của anh,',
+  'Gửi Xuân Hương — cô gái đáng iu dịu dàng của anh,',
   'Chúc người anh yêu tuổi mới luôn rạng rỡ như những bông hoa này,',
   'Mỗi ngày đều có thật nhiều niềm vui, may mắn và bình an.',
   'Mong mọi điều bạn ước sẽ dần trở thành hiện thực.',
+  'Thực sự rất muốn kêu quà bay đến chỗ em ngay lập tức',
   'Chúc mừng sinh nhật em iuu! 🎂✨'
 ];
 function showWishes(i = 0) { if (i >= wishes.length) return; const p = document.createElement('p'); p.textContent = wishes[i]; message.appendChild(p); setTimeout(() => showWishes(i + 1), 720) }
